@@ -19,13 +19,13 @@ Server: Godaddy | LAMPstack
 
 ---
 
-I built three custom webpages for my fsmily business. 
+I built three custom webpages for my fsmily business.
 
 [http://connellymanagement.com](https://connellymanagement.com)
 
 ### Main site
 
-The main site is mostly marketing. This site gets potential customers to contact the company. 
+The main site is mostly marketing. This site gets potential customers to contact the company.
 
 ### The portal
 
