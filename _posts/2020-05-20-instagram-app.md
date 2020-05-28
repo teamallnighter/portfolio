@@ -16,7 +16,7 @@ Server: PHP | Linux
 
 ---
 
-[Check it out](https://vcad.chrisconnelly.dev/instagram)
+[Check it out](https://vcad.chrisconnelly.ca/instagram/)
 
 - No API
 - No Keys
