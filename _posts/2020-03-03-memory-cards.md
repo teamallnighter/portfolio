@@ -16,5 +16,4 @@ Server: PHP | Linux
 
 ---
 
-[Memory Cards](https://demo.chrisconnelly.ca/projects/js/memory-cards/)
-
+[Memory Cards](https://demo.chrisconnelly.ca/projects/js/memory-cards/) Easy to use memory cards for just about anyone

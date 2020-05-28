@@ -16,4 +16,4 @@ Server: PHP | Linux
 
 ---
 
-[Speech Detection](https://demo.chrisconnelly.ca/projects/js2/speech-detection/)
+[Speech Detection](https://demo.chrisconnelly.ca/projects/js2/speech-detection/) is an app that detects your words and shows them on the page
