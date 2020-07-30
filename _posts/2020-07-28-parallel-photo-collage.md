@@ -4,6 +4,7 @@ title:  "Parallel photo collage"
 date:   2020-07-28
 categories: Websites
 ---
+this is a simple photo collage. Would work for just about any website. You could have products in each cell and more information when you click on them.
 
 <p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="css,result" data-user="chris-connelly" data-slug-hash="YzwvpGG" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Parallel photo  collage">
   <span>See the Pen <a href="https://codepen.io/chris-connelly/pen/YzwvpGG">
