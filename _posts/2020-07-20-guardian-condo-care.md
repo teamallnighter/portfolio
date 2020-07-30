@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Guardian Condominium Care"
+title:  "Guardian Condo Care"
 date:   2020-07-20
 categories: Websites
 ---
