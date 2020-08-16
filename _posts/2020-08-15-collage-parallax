@@ -1,0 +1,19 @@
+---
+layout: category-post
+title:  "Cool JS Timeline"
+date:   2020-07-30
+categories: Websites
+---
+
+Build: HTML, CSS and vanilla JavaScript
+Back End: Codepen
+Description: A cool timeline for your business,team or anything really!
+
+Fun times with an image collage and some parallaxing effect! 
+
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="chris-connelly" data-slug-hash="poyydYE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Collage Parallax">
+  <span>See the Pen <a href="https://codepen.io/chris-connelly/pen/poyydYE">
+  Collage Parallax</a> by Chris Connelly (<a href="https://codepen.io/chris-connelly">@chris-connelly</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
